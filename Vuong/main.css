@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+    border:none;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+
+section{
+    width: 485px;
+    height: 520px;
+    margin-left: 185px;
+}
+
+article{
+    width:153px;
+    height: 190px;
+    float:left;
+    padding-right: 8px;
+}
+
+article img{
+    width:153px;
+    height: 114px;
+}
+
+
+
+div img{
+    width: 464px;
+    height: 283px;
+ 
+}
+
+ul{
+    margin-top:5px;
+    margin-bottom: 17px;
+}
+
+ul li{
+    margin-right: 15px;
+    font-size: 15px;
+    font-style:italic;
+}
+
+ 
+div h2{
+    font-size:20px;
+    margin-bottom: 10px;
+}
+
+div p{
+    font-size:14px;
+
+}
